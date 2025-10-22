@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --repo https://github.com/H-ala/react-tic-toc-toe.git"
+    "deploy": "gh-pages -d dist --repo https://github.com/H-ala/react-tic-tac-toe.git"
   },
   "dependencies": {
     "react": "^19.0.0",
